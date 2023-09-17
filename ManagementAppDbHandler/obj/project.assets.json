@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ClosedXML >= 0.95.4",
+      "ExcelMapper >= 5.2.405",
+      "MongoDB.Driver >= 2.16.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rishabh.Gupta\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Rishabh.Gupta\\source\\repos\\Management Application\\ManagementAppDbHandler\\ManagementAppDbHandler\\ManagementAppDbHandler.csproj",
+      "projectName": "ManagementAppDbHandler",
+      "projectPath": "C:\\Users\\Rishabh.Gupta\\source\\repos\\Management Application\\ManagementAppDbHandler\\ManagementAppDbHandler\\ManagementAppDbHandler.csproj",
+      "packagesPath": "C:\\Users\\Rishabh.Gupta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rishabh.Gupta\\source\\repos\\Management Application\\ManagementAppDbHandler\\ManagementAppDbHandler\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rishabh.Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "ClosedXML": {
+            "target": "Package",
+            "version": "[0.95.4, )"
+          },
+          "ExcelMapper": {
+            "target": "Package",
+            "version": "[5.2.405, )"
+          },
+          "MongoDB.Driver": {
+            "target": "Package",
+            "version": "[2.16.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json.",
+      "libraryId": "ClosedXML"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json.",
+      "libraryId": "ExcelMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json.",
+      "libraryId": "MongoDB.Driver"
+    }
+  ]
+}

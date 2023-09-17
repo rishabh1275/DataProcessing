@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ManagementAppDbHandler.Accounts">
+    <Position X="3.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAAAAgAAAAAAAAAAAAAAAAQAAAAAgAA=</HashCode>
+      <FileName>Accounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagementAppDbHandler.DataBaseLoader">
+    <Position X="9.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagementAppDbHandler.LoadList">
+    <Position X="6.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagementAppDbHandler.ObjectLoader">
+    <Position X="6.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAQAEAAAAAAAAAAAEABAEAAqAAAAAAAAA=</HashCode>
+      <FileName>ObjectLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagementAppDbHandler.Opportunity">
+    <Position X="0.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQwAAAAYAAAAIAAAgWAAgABAAIgAAAAAAAAA=</HashCode>
+      <FileName>Opportunity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.317" />
+  </Class>
+  <Class Name="ManagementAppDbHandler.OpportunityProp">
+    <Position X="9.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQAAAAIAAAAAAAAgWAAgAAAAIgAAAAAAAAA=</HashCode>
+      <FileName>OpportunityProp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagementAppDbHandler.Program">
+    <Position X="12" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagementAppDbHandler.Stages">
+    <Position X="12" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAEAAAAAAAAQAAIAAAAgAAAAAAAA=</HashCode>
+      <FileName>Stages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

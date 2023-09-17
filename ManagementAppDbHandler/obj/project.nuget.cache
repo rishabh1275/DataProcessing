@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/4ZYa/zXgJtyuLujJgRyTZJ4QT0mJoblvQWaiOeLAQ95kLasqpF5/OVRzzYelvNWw5D9VgO05O+3LWdS6+bIg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Rishabh.Gupta\\source\\repos\\Management Application\\ManagementAppDbHandler\\ManagementAppDbHandler\\ManagementAppDbHandler.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json.",
+      "libraryId": "ClosedXML"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json.",
+      "libraryId": "ExcelMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://sita-pse.pkgs.visualstudio.com/_packaging/Type22/nuget/v3/index.json.",
+      "libraryId": "MongoDB.Driver"
+    }
+  ]
+}
